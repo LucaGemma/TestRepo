@@ -1,4 +1,11 @@
-# TestRepo
-Just a test repository for the DAMI23 Academy
+# Test Repo
+Just my simple repo for testing.
 
-Hey there, this is my first Git Repo!
+## Section 1
+In this Section you can find:
+- readme.md
+- apache license
+- superman
+
+
+www.google.com
